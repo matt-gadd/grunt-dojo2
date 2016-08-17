@@ -44,8 +44,10 @@
   },
   "devDependencies": {
     "codecov.io": "0.1.6",
+    "execa": "^0.4.0",
     "grunt": "^1.0.1",
     "intern": "^3.2.0",
+    "npm": "^3.10.6",
     "shx": ">=0.1.2",
     "tslint": "next",
     "typescript": "2.1.0-dev.20160819",
